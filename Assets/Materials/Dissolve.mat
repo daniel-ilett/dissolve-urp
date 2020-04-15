@@ -56,7 +56,7 @@ Material:
     - _BumpScale: 1
     - _Cull: 2
     - _Cutoff: 0.5
-    - _CutoffHeight: 1.74
+    - _CutoffHeight: 0
     - _DstBlend: 0
     - _EdgeWidth: 0.05
     - _EnvironmentReflections: 1
@@ -65,6 +65,7 @@ Material:
     - _GlossyReflections: 0
     - _Metallic: 0
     - _NoiseScale: 50
+    - _NoiseStrength: 0.3
     - _OcclusionStrength: 1
     - _QueueOffset: 0
     - _ReceiveShadows: 1
